@@ -1,1 +1,1 @@
-Template pembuatan aplikasi absensi berbasis web dan android
+Template pembuatan aplikasi web
